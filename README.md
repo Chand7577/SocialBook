@@ -1,6 +1,6 @@
 # SocialBook
 
-**SocialBook** is a full-featured social media web application built with Django, Tailwind CSS, and custom styling. It provides a secure and interactive platform for users to share posts, engage with content, and connect with others.
+**SocialBook** is a full-featured social media web application built with Django, Tailwind CSS, and custom styling. It provides a secure and interactive platform for users to share posts, engage with content.
 
 ## Features
 
@@ -27,7 +27,6 @@
 
 ### 🤝 Social Features
 - Follow and unfollow other users.
-- See lists of your followers and who you're following.
 
 ## Tech Stack
 
