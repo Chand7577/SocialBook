@@ -45,7 +45,7 @@
 
 ### Post Feed
 
-![Post Feed](./screenshots/post_feed.png)  
+![Post Feed](./screenshots/feed.png)  
 *Main feed showing posts from all users*
 
 ### Profile Page
