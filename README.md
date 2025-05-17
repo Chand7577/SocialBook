@@ -36,4 +36,23 @@
 - **Templates:** Django Templates
 - **Authentication:** Django's built-in auth system
 
+## Screenshots
+
+### Login Page
+
+![Login Page](./screenshots/login.png)  
+*User login screen with form validation*
+
+### Post Feed
+
+![Post Feed](./screenshots/post_feed.png)  
+*Main feed showing posts from all users*
+
+### Profile Page
+
+![Profile Page](./screenshots/profile.png)  
+*User profile page displaying bio, posts, and profile image*
+
+
+
 
